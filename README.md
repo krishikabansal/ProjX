@@ -1,2 +1,2 @@
-# ProjX
+# ProjX Figma
 NEW.REPO
